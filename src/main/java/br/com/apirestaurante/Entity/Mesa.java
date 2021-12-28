@@ -1,6 +1,6 @@
 package br.com.apirestaurante.Entity;
 
-import antlr.collections.List;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
